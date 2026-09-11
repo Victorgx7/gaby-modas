@@ -1,4 +1,4 @@
-# Gaby Modas — Site de Loja
+# Gaby Modas — Site Intitucional
 
 Site responsivo desenvolvido para uma loja de acessórios femininos, com foco em apresentação de produtos, identidade visual e experiência do usuário.
 
