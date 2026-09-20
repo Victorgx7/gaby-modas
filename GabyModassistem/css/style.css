@@ -561,7 +561,7 @@ ul {
   height: 25%;
   object-fit:contain;
 
-  filter: invert(39%) sepia(94%) saturate(1800%) hue-rotate(316deg);
+ filter: invert(19%) sepia(98%) saturate(5200%) hue-rotate(327deg) brightness(100%) contrast(95%);
 }
 
 .benefit h3 {
